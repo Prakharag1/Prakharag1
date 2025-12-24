@@ -1,6 +1,6 @@
 # Hi 👋, I'm Prakhar Agrawal
 
-🎓 B.S. in Data Science and Applications @ IIT Madras  
+🎓 Pursuing B.S. in Data Science and Applications @ IIT Madras  
 💡 Aspiring Data Scientist / ML Engineer
 
 
