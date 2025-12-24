@@ -10,7 +10,7 @@
 - Strong foundation in **Data Science, Machine Learning, and Backend Development**
 - Hands-on experience building **end-to-end ML pipelines** and deploying models to the cloud
 - Interested in **real-world ML applications**, pricing systems, and automation
-- Learning **Data and its applications , Machine Learning , Deep Learning , Ai **
+- Learning **Data and its applications , Machine Learning , Deep Learning , Ai**
 
 ---
 
