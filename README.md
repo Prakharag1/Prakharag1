@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi 👋, I'm Prakhar Agrawal
 
-<!--
-**Prakharag1/Prakharag1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.S. in Data Science and Applications @ IIT Madras  
+💡 Aspiring Data Scientist / ML Engineer
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+- Strong foundation in **Data Science, Machine Learning, and Backend Development**
+- Hands-on experience building **end-to-end ML pipelines** and deploying models to the cloud
+- Interested in **real-world ML applications**, pricing systems, and automation
+- Learning **Data and its applications , Machine Learning , Deep Learning , Ai **
+
+---
+
+## 🛠️ Skills & Tools
+
+**Programming:**  
+Python, JavaScript  
+
+**Machine Learning:**  
+Regression, Classification, Time Series Forecasting, Feature Engineering  
+
+**Frameworks & Libraries:**  
+Scikit-learn, Pandas, NumPy, PyTorch, XGBoost, Flask, FastAPI  
+
+**Cloud & MLOps:**  
+Microsoft Azure (Azure ML, ACI), ML Pipelines, Real-Time Model Deployment (REST APIs)  
+
+**Databases & Tools:**  
+PostgreSQL, MySQL, MS Excel (Pivot Tables, VLOOKUP)
+
+---
+
+
+
+## 📫 Connect With Me
+- 💼 LinkedIn: *(https://www.linkedin.com/in/prakhar-agrawal-510b6a227/)*
+- 📧 Email: *(prakhara468@gmail.com)*
+
+---
+
+⭐ Feel free to explore my repositories and connect!
