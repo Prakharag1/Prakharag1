@@ -1,7 +1,8 @@
 # Hi 👋, I'm Prakhar Agrawal
 
 🎓 Pursuing B.S. in Data Science and Applications @ IIT Madras  
-💡 Aspiring Data Scientist / ML Engineer
+💡 Aspiring Data Scientist / ML Engineer / Developer
+
 
 
 ---
